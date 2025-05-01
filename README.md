@@ -1,22 +1,20 @@
-### Google Advanced Data Analytics
+### Student Performance Analysis
 
-<img src="(pro) Google.png" alt="">
-
-
-### Google IT Automation with Python
-<img src="(pro.png" alt="">
+<img src="Blue.png" alt="">
 
 
-### Google Project Management
-
-<img src="Google Project.png" alt="">
-
-
-### Google data Analytics
-
-<img src="Google data Analytics.png" alt="">
+### Student Performance Analysis
+<img src="white.png" alt="">
 
 
-### Google Business Intelligence Professional Certificate
+### Student Performance Analysis
 
-<img src="bi.png" alt="">
+<img src="Orange.png" alt="">
+
+
+### Student Performance Analysis
+
+<img src="Pink.png" alt="">
+
+
+
